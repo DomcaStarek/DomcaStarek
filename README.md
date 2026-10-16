@@ -1,6 +1,6 @@
 # Dominik Starek
 
-Currently working as a Software Tester (Linux & PostgreSQL). When it comes to development, I specialize in "vibecoding" – figuring things out as I go and making sure the end result actually works.
+Currently working as a Application Specialist. When it comes to development, I specialize in "vibecoding" – figuring things out as I go and making sure the end result actually works.
 
 ### 🛠️ My Toolkit
 - **QA & Ops:** Linux, PostgreSQL, testing methodologies.
